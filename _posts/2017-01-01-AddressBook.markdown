@@ -9,8 +9,6 @@ date: 2017-01-01 00:00:03 -08:00
 <center>
 <h1>
 <a href="https://github.com/billhu1996/AddressBook-iOS" class="fa fa-github"></a>
-</h1>
-<h1>
 <a href="https://wiki.billhubo.com" class="fa fa-book"></a>
 </h1>
 </center>

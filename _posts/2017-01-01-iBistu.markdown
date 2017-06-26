@@ -9,8 +9,6 @@ date: 2017-01-01 00:00:06 -08:00
 <center>
 <h1>
 <a href="https://github.com/ifLab/iCampus-iOS" class="fa fa-github"></a>
-</h1>
-<h1>
 <a href="https://itunes.apple.com/cn/app/ibistu/id606795996?mt=8" class="fa fa-apple"></a>
 </h1>
 </center>

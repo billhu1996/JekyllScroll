@@ -9,8 +9,6 @@ date: 2017-01-01 00:00:04 -08:00
 <center>
 <h1>
 <a href="https://github.com/ifLab/owncloud-ios" class="fa fa-github"></a>
-</h1>
-<h1>
 <a href="https://itunes.apple.com/cn/app/bistu%E4%BA%91%E7%9B%98/id1234895108?mt=8" class="fa fa-apple"></a>
 </h1>
 </center>
