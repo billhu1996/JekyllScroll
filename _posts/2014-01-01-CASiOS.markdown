@@ -1,0 +1,22 @@
+---
+layout: post
+title: CAS-iOS
+date: 2014-01-01 00:00:02 -08:00
+---
+`21st Jun 2017`
+
+![](assets/images/cas/icon.png)
+
+<center>
+<h1>
+<a href="https://github.com/billhu1996/CAS-iOS/" class="fa fa-github"></a>
+</h1>
+</center>
+
+`CAS-iOS`
+
+`项目描述` iOS 版 CAS 客户端框架 (using Restful API)
+
+`主要功能实现` 利用NSURLSession与后端交互, 处理非JSON数据, cocapods的创建
+
+`项目收获` cocoapods仓库的创建, 加深对NSURLSession的理解, 排除不使用AF就不敢写接口的障碍

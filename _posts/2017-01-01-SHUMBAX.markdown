@@ -1,0 +1,22 @@
+---
+layout: post
+title: SHUMBAX, ESX
+date: 2017-01-01 00:00:02 -08:00
+---
+`29 Aug 2016`
+
+![](assets/images/shumbax/icon.png)
+<center>
+<h1>
+<a href="https://itunes.apple.com/cn/app/shumbax/id1148275146?mt=8" class="fa fa-apple"></a>
+</h1>
+</center>
+
+`SHUMBAX, ESX`
+
+`项目描述` Open edx 开源项目定制, 根据 Github 上发布的 Open edx 开源慕课平台 release 版为其它学校定制慕课平台 
+
+`负责部分` iOS 定制和二次开发, App Store上架
+`主要功能实现` 查阅官方文档，学习 Open edx iOS版源码，根据不同需求增加、删除、修改功能，并进行定制打包发布，长期维护
+
+`项目收获` 接触知名公司代码, 学习设计模式

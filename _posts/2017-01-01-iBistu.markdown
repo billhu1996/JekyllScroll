@@ -1,0 +1,24 @@
+---
+layout: post
+title: iBistu
+date: 2017-01-01 00:00:06 -08:00
+---
+`15 Sep 2016`
+
+![](assets/images/iBistu/icon.png)
+<center>
+<h1>
+<a href="https://github.com/ifLab/iCampus-iOS" class="fa fa-github"></a>
+</h1>
+<h1>
+<a href="https://itunes.apple.com/cn/app/ibistu/id606795996?mt=8" class="fa fa-apple"></a>
+</h1>
+</center>
+
+`iBistu`
+
+`项目描述` 该项目是一款开源校园移动应用, 包括 iOS 端和 Android 端, 旨在为本校师生提供黄页、新闻、班车、二手交易等功能, 已在App Store上架; 源码与后端接口开源于 Github
+
+`主要功能实现` 通过AFNetworking与后端接口交互; 通过CAS-iOS(基于URLSession)与校内CAS服务器认证; 通过原生UI控件(UIVC,UITVC,UICVC)分别实现登录注册与认证, 新闻, 首页界面; 使用HMSegmentedControl为新闻分类显示; 使用MJRefresh加载更或刷新新闻列表; 使用DTCoreText展现图文混排新闻; 使用mob短信SDK认证手机号; 使用serverURL同步取得URL地址; 为服务器添加HTTPS证书, 配置ssl.
+
+`项目收获` 熟悉使用以上第三方框架

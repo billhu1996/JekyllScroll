@@ -7,7 +7,7 @@ layout: default
     <div class='fixed-nav'>
     </div>
 
-    {% for post in site.posts %}
+    {% for post in site.posts | sort: 'date' %}
     <div class='post-holder'>
         {% if post.next == null %}
             <article class="post first">

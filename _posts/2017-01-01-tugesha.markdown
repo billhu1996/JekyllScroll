@@ -1,0 +1,32 @@
+---
+layout: post
+title: 图个啥(Tugesha)
+date: 2017-01-01 00:00:01 -08:00
+---
+`12 May 2015`
+
+![](assets/images/tugesha/icon.png)
+<center>
+<h1>
+<a href="https://github.com/billhu1996/TuGeSha-iOS/" class="fa fa-github"></a>
+</h1>
+</center>
+
+`项目描述` 图片社交软件, 用户基于地理位置进行拍照上传, 其他用户基于地理位置查看图片并进行沟通(公开回复, 悄悄话留言回复).
+
+`团队规模` 5人 (项目经理, 设计师, 程序员3人)
+
+`负责部分` 图片查看, 回复和悄悄话界面的实现
+
+`主要功能实现` 使用 MBPullDownController 实现类似提醒事项(iPhone自带应用)的多 Controller 下拉界面, 展示图片, 回复, 悄悄话. 图片和回复在一个 Controller, 悄悄话在另一个 Controller.
+
+`项目收获` Git 协作, Submodule 使用, MVC 设计规范
+
+
+由于项目保存在GitHub Private Repository, 所附GitHub链接打开404, 我会截一些图片以供查看.
+
+![](/assets/images/tugesha/sc1.png)
+  
+  
+![](/assets/images/tugesha/sc2.png)
+
